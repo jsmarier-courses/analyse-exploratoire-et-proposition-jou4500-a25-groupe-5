@@ -88,6 +88,11 @@ Pour résoudre ce problème, nous avons utilisé la formule suivante, découvert
 **3. Correction des valeurs erronées pour la colonne “Ville d’Ottawa”**
 Certaines données n’étaient pas exactes, notamment dans la colonne de la ville d’Ottawa. Pour corriger cela, nous avons utilisé la formule suivante :`«=MOYENNE(C2:Z2) ».` Cette formule a été appliquée à l’ensemble des indicateurs afin d’obtenir des valeurs plus représentatives sur l’ensemble des 24 quartiers.
 
+**4. Amélioration de la navigation dans le jeu de données**
+Enfin, nous avons figé la première colonne ayant nos indicateurs pour faciliter la lecture et la manipulation de notre tableau. 
+Pour effectuer cela, nous avons sélectionné **Afficher** > **Figer** >**1 colonne**.
+
+
 ### 3.3. Analyse exploratoire des données (AED)
 
 Insérez votre texte ici.
