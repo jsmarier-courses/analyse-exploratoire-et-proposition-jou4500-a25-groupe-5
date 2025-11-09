@@ -30,17 +30,18 @@ Insérez votre texte ici.
 
 Utilisez deux croisillons (`##`) pour créer un intertitre de niveau 2 comme celui-ci.
 
-Pour importer les données dans Google Feuilles de calcul : 
-Télécharger le fichier CSV en cliquant sur le lien fourni, puis choisissez Fichier > Enregistrer sous pour le sauvegarder sur votre ordinateur. 
-Ouvrez Google Drive et créez une nouvelle feuille de calcul en cliquant sur Nouveau > Google Feuilles de calcul. 
-Dans la feuille de calcul, cliquez sur Fichier > Importer. 
-Cliquez Téléverser et sélectionnez le fichier CSV que vous avez téléchargé.
-Dans la fenêtre Importer un fichier, cliquez sur Importer les données. 
+**Pour importer les données dans Google Feuilles de calcul :**
+Télécharger le fichier CSV en cliquant sur le lien fourni, puis choisissez **Fichier > Enregistrer sous** pour le sauvegarder sur votre ordinateur. 
+Ouvrez Google Drive et créez une nouvelle feuille de calcul en cliquant sur **Nouveau > Google Feuilles de calcul**. 
+Dans la feuille de calcul, cliquez sur **Fichier > Importer**. 
+Cliquez **Téléverser** et sélectionnez le fichier CSV que vous avez téléchargé.
+Dans la fenêtre **Importer un fichier**, cliquez sur **Importer les données**. 
 
-Utilisez le modèle de code ci-dessous pour insérer une capture d'écran. Vos images doivent être sauvegardées dans le même dossier que votre fichier `.md`.
 
-![](import-screen-capture.png)<br>
+![](Questionnaire-détaillé-2021.png)<br>
 *Figure 1 : La fenêtre d'importation d'un fichier de Google Feuilles de calcul.*
+
+Pour accéder notre Google Feuilles de calcul, veuillez cliquez sur ce lien public : https://docs.google.com/spreadsheets/d/1m5SLJN9SNHpli4yt-i3ZSI0ZNOzCDc_xl0AY0KQlSuY/edit?usp=sharing 
 
 **Voici quelques exemples de fonctions et de lignes de code mises dans des boîtes grises :**
 
