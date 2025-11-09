@@ -63,7 +63,16 @@ Utilisez trois croisillons (`###`) pour créer un intertitre de niveau 3 comme c
 VIMA est l’acronyme de Valide, Invalide, Manquant et Aberrant. Il s’agit d’une analyse utilisée pour vérifier l’exactitude des données que l’on possède : V pour valide (aucune valeurs manquantes, mais qui se retrouve dans une fourchette valide et sont représentatifs du phénomène à l’étude), I pour invalide (les valeurs impossibles ou qui n’ont aucun sens), M pour manquant (cellule vide), et A pour aberrant (valeurs extrêmement hautes ou basses par rapport à celles attendues). 
 
 Alors, les données sont dites exactes lorsqu'elles décrivent adéquatement les phénomènes qu’elles sont conçues pour mesurer ou représenter. D’où, pour qu’une donnée soit exacte, elle doit être valide et correcte selon [Statistique Canada, 2020](https://www.statcan.gc.ca/fr/afc/litteratie-donnees/catalogue/892000062020008). Dans notre cas, les données que nous avons utilisées portent sur les données ouvertes de la ville d’Ottawa qui portent sur le recensement et l’enquête par sondage de 2021. Pour nous assurer que nos données sont exact nous avons analysé les trois colonnes ci-dessous dans notre jeu de données :
+![colonne A](colonne-A.png)<br>
+*Figure 3 : Colonne A*
 
+![colonne B](colonne-B.png)<br>
+*Figure 4 : Colonne B*
+
+![colonne C](colonne-C.png)<br>
+*Figure 5 : colonne C*
+
+Toutes les trois colonnes sont censées représenter les caractéristiques utilisées par les personnes qui ont répondu soit pour le recensement soit pour l’enquête par sondage. Ces colonnes sont valides, car elle représente le phénomène décrit, ne possède pas de valeur impossible, toutes ces cellules sont remplies et ce sont des valeurs attendues. Donc, les colonnes sont une donnée exacte.
 
 Appuyez vos affirmations en citant les sources appropriées. Veuillez suivre les [normes APA en matière d'attribution dans le corps du texte](https://apastyle.apa.org/style-grammar-guidelines/citations).
 
@@ -92,20 +101,22 @@ Certaines données n’étaient pas exactes, notamment dans la colonne de la vil
 Enfin, nous avons figé la première colonne ayant nos indicateurs pour faciliter la lecture et la manipulation de notre tableau. 
 Pour effectuer cela, nous avons sélectionné **Afficher** > **Figer** >**1 colonne**.
 
+![jeux de données après nettoyage](jeux-de-données-après-nettoyage.png)<br>
+*Figure 6 : jeux de données après nettoyage*
 
 ### 3.3. Analyse exploratoire des données (AED)
 
-Insérez votre texte ici.
+Ces variables ont été sélectionnées pour examiner la question du logement abordable à Ottawa sous un angle purement financier. En combinant la valeur moyenne des logements et le pourcentage de ménages propriétaires consacrant 30 % ou plus de leur revenu au logement, on obtient une image claire de la charge financière réelle supportée par les ménages. Une statistique attire particulièrement l’attention : certains quartiers affichent une valeur moyenne avoisinant les 900 000 $, un chiffre qui traduit la montée rapide du coût de l’immobilier et les difficultés croissantes pour accéder à une propriété. L’analyse révèle ainsi une ville marquée par un fort déséquilibre entre les revenus et les prix, où l’accès à un logement adéquat devient de plus en plus restreint pour les ménages à revenu moyen. Toutefois, quelques quartiers, notamment Orléans-Ouest–Innes avec seulement 7,9 % de ménages dépassant le seuil des 30 %,se démarquent par une meilleure stabilité financière.Ces données montrent l'importance d'identifier ces zones ces Zones plus accessibles afin de mieux comprendre les dynamiques économiques locales.Pour la suite,la valeur moyenne des logements mérite une analyse plus approfondie,surtout dans les quartiers où elle avoisine les 900 000 Il serait aussi pertinent de croiser cette variable avec le taux de ménages dépassant 30 % de leur revenu en frais de logement afin de mieux comprendre les inégalités économiques entre quartiers.
 
 **Cette section doit inclure une capture d'écran de votre tableau croisé dynamique, comme ceci :**
 
-![](pivot-table-screen-capture.png)<br>
-*Figure 2 : Ce tableau croisé dynamique montre...*
+![Tableau croisé dynamique](Tableau-croisé-dynamique.png)<br>
+*Figure 7 : Ce tableau croisé dynamique montre...*
 
 **Cette section doit aussi inclure une capture d'écran de votre graphique exploratoire, comme ceci :**
 
-![](chart-screen-capture.png)<br>
-*Figure 3 : Ce graphique exploratoire montre...*
+![Graphique exploratoire](Pour-les-locataires.png)<br>
+*Figure 9 : Ce graphique exploratoire % de ménages propriétaires consacrant 30 % ou plus de leur revenu aux frais de logement*
 
 ## 4. Récit potentiel
 
