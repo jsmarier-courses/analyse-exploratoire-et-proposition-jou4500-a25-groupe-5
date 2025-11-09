@@ -75,6 +75,9 @@ Comme l'affirme Cairo (2016), une visualisation de données doit être véridiqu
 
 Après l’importation de nos données, nous sommes passés à la sélection de différents indicateurs afin de parfaire notre étude et de répondre à notre thèse sur le logement abordable. Pour nous assurer que nous travaillions avec des données fiables, nous avons nettoyé notre jeu de données en suivant plusieurs étapes en utilisant les outils de nettoyage des données de Google Feuilles de calcul :
 
+**1.Correction manuelle des incohérences dans les noms de quartiers**
+
+Nous avons remarqué que certains quartiers manquent un tiret « - » dans leur orthographe, contrairement à la version officielle du site de la Ville d’Ottawa. De plus, un quartier ne possédait que le nom sans sa position dans la liste ; il s’agissait du quartier Rideau-Rockcliffe. Après avoir vérifié le site officiel, [Cartes des quartiers et zones des conseils scolaires – Ville d’Ottawa](https://ottawa.ca/fr/hotel-de-ville/elections/cartes-des-quartiers-et-zones-des-conseils-scolaires), nous avons constaté qu’il occupait la 13ᵉ position et nous avons fait l’ajout nécessaire dans le jeu de données. 
 ### 3.3. Analyse exploratoire des données (AED)
 
 Insérez votre texte ici.
