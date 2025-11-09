@@ -82,8 +82,12 @@ Nous avons remarqué que certains quartiers manquent un tiret « - » dans leur 
 **2. Uniformisation des formats de valeurs**
 Nous avons ensuite modifié les formats de certaines valeurs afin de pouvoir les traiter comme des nombres. En particulier, nous avons constaté que plusieurs cellules de la ligne « % de ménages propriétaires consacrant 30 % ou plus de leur revenu aux frais de logement » étaient au format date, ce qui rendait la conversion en format numérique difficile.
 
-Pour résoudre ce problème, nous avons utilisé la formule suivante, découverte grâce à l’intelligence artificielle ChatGPT : ` =TEXT(B10; "mmd") * 0,1 `. Cette formule nous a permis de convertir les cellules au format nombre tout en conservant leur valeur d’origine.  Concrètement, nous avons sélectionné les 25 colonnes concernées, puis sélectionné sur **Format** > **123 Nombre** > **Nombre**.
+Pour résoudre ce problème, nous avons utilisé la formule suivante, découverte grâce à l’intelligence artificielle ChatGPT : `=TEXT(B10; "mmd") * 0,1 `. Cette formule nous a permis de convertir les cellules au format nombre tout en conservant leur valeur d’origine.  Concrètement, nous avons sélectionné les 25 colonnes concernées, puis sélectionné sur **Format** > **123 Nombre** > **Nombre**.
  Nous avons décidé de conserver deux décimales afin de préserver la précision de certaines valeurs.
+
+**3. Correction des valeurs erronées pour la colonne “Ville d’Ottawa”**
+Certaines données n’étaient pas exactes, notamment dans la colonne de la ville d’Ottawa. Pour corriger cela, nous avons utilisé la formule suivante :`«=MOYENNE(C2:Z2) ».` Cette formule a été appliquée à l’ensemble des indicateurs afin d’obtenir des valeurs plus représentatives sur l’ensemble des 24 quartiers.
+
 ### 3.3. Analyse exploratoire des données (AED)
 
 Insérez votre texte ici.
