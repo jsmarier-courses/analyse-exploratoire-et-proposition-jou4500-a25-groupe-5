@@ -73,7 +73,7 @@ Comme l'affirme Cairo (2016), une visualisation de données doit être véridiqu
 
 ### 3.2. Nettoyage des données
 
-Insérez votre texte ici.
+Après l’importation de nos données, nous sommes passés à la sélection de différents indicateurs afin de parfaire notre étude et de répondre à notre thèse sur le logement abordable. Pour nous assurer que nous travaillions avec des données fiables, nous avons nettoyé notre jeu de données en suivant plusieurs étapes en utilisant les outils de nettoyage des données de Google Feuilles de calcul :
 
 ### 3.3. Analyse exploratoire des données (AED)
 
