@@ -23,7 +23,7 @@ Avez-vous remarqué comment créer un hyperlien? En langage Markdown, on met le 
 Pour créer une liste non ordonnée, il suffit de mettre une étoile (`*`) devant chaque item.
 
 ## 1. Introduction
-Ce travail est une analyse pour le cours Journalisme numérique II : Sujets spéciaux (CMN 4500/JOU 4500) et va nous mener à faire un reportage. L’analyse porte sur l’étude d’un jeu de données de la Ville d’Ottawa concernant l’enjeu du logement abordable. Notre objectif est d’examiner dans quels quartiers les ménages dépensent une grande part de leur revenu pour se loger, afin d’identifier le quartier le plus abordable en 2020. Ces données proviennent du recensement de 2021 réalisé par Statistique Canada à partir d’un échantillon de 25 % des ménages.
+Ce travail est une analyse pour le cours Journalisme numérique II : Sujets spéciaux (CMN 4500/JOU 4500) et va nous mener à faire un reportage. L’analyse porte sur l’étude d’un jeu de données de la Ville d’Ottawa concernant l’enjeu du logement abordable. Notre objectif est d’examiner dans quels quartiers les ménages dépensent une grande part de leur revenu pour se loger, afin d’identifier le quartier le plus abordable en 2020. Ces données proviennent du recensement de 2021 réalisé par Statistique Canada à partir d’un échantillon de 25 % des ménages.Le fichier contient 26 colonnes et 2603 lignes regroupant des informations démographiques et économiques par quartier, comme la valeur moyenne des logements et le pourcentage de propriétaires et de locataires consacrant 30 % ou plus de leur revenu au logement.
 ## 2. Obtenir les données
 
 Utilisez deux croisillons (`##`) pour créer un intertitre de niveau 2 comme celui-ci.
