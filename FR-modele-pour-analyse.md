@@ -24,7 +24,8 @@ Pour créer une liste non ordonnée, il suffit de mettre une étoile (`*`) devan
 
 ## 1. Introduction
 
-Insérez votre texte ici.
+Ce travail est une analyse pour le cours Journalisme numérique II : Sujets spéciaux (CMN 4500/JOU 4500) et va nous mener à faire un reportage. L’analyse porte sur l’étude d’un jeu de données de la Ville d’Ottawa concernant l’enjeu du logement abordable. Notre objectif est d’examiner dans quels quartiers les ménages dépensent une grande part de leur revenu pour se loger, afin d’identifier le quartier le plus abordable en 2020. Ces données proviennent du recensement de 2021 réalisé par Statistique Canada à partir d’un échantillon de 25 % des ménages. Le fichier contient 26 colonnes et 2603 lignes regroupant des informations démographiques et économiques par quartier, comme la valeur moyenne des logements et le pourcentage de propriétaires et de locataires consacrant 30 % ou plus de leur revenu au logement. Le jeu de données original est disponible sur le portail de données ouvertes de la ville d'Ottawa et la version CSV se trouve sur GitHub. D’abord, nous présenterons l’obtention des données, puis le nettoyage, avant de passer à l’analyse et enfin à la conclusion.
+
 
 ## 2. Obtenir les données
 
@@ -124,7 +125,7 @@ Insérez votre texte ici.
 
 ## 5. Conclusion
 
-Insérez votre texte ici.
+Ce travail nous a permis de mieux comprendre comment utiliser des données concrètes pour analyser un enjeu réel, en l’occurrence celui du logement abordable à Ottawa. Tout au long du processus, nous avons appris à observer, nettoyer et interpréter les données tout en restant concentrés sur une approche simple et logique. Cette simplicité, que le cours met de l’avant, nous a aidés à ne pas nous perdre dans les détails et à garder un regard clair sur notre objectif principal. Le plus difficile a été de sélectionner des indicateurs cohérents pour notre étude et d’établir une question principale précise, sans trop nous écarter du sujet. Nous devions trouver un équilibre entre la richesse du jeu de données et la clarté de notre démarche. Ce qui a été le plus gratifiant a été de voir comment les instructions théoriques pouvaient être appliquées concrètement dans un cadre qui ressemble à un travail professionnel. Cela nous a aussi montré qu’avec une méthode simple, on peut arriver à des résultats solides et compréhensibles. Ce travail nous a aussi montré certaines lacunes dans nos connaissances, surtout dans l’observation des colonnes et le nettoyage des données. Avec un peu plus de temps, nous aurions pu approfondir le lien entre la valeur moyenne des logements et le revenu des ménages. En général, cet exercice nous a vraiment aidé à lier la théorie à la pratique et à mieux comprendre la réalité du logement à Ottawa.
 
 ## 6. Références
 
