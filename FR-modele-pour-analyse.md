@@ -122,7 +122,7 @@ Ces variables ont été sélectionnées pour examiner la question du logement ab
 Insérez votre texte ici.
 
 ## 5. Conclusion
-Ce travail nous a permis de mieux comprendre comment utiliser des données concrètes pour analyser un enjeu réel, en l’occurrence celui du logement abordable à Ottawa. Tout au long du processus, nous avons appris à observer, nettoyer et interpréter les données tout en restant concentrés sur une approche simple et logique. Cette simplicité, que le cours met de l’avant, nous a aidés à ne pas nous perdre dans les détails et à garder un regard clair sur notre objectif principal. 
+Ce travail nous a permis de mieux comprendre comment utiliser des données concrètes pour analyser un enjeu réel, en l’occurrence celui du logement abordable à Ottawa. Tout au long du processus, nous avons appris à observer, nettoyer et interpréter les données tout en restant concentrés sur une approche simple et logique. Cette simplicité, que le cours met de l’avant, nous a aidés à ne pas nous perdre dans les détails et à garder un regard clair sur notre objectif principal. Le plus difficile a été de sélectionner des indicateurs cohérents pour notre étude et d’établir une question principale précise, sans trop nous écarter du sujet. Nous devions trouver un équilibre entre la richesse du jeu de données et la clarté de notre démarche. 
 
 ## 6. Références
 
