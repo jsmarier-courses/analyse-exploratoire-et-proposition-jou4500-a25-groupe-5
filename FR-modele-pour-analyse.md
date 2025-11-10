@@ -122,7 +122,7 @@ Ces variables ont été sélectionnées pour examiner la question du logement ab
 Insérez votre texte ici.
 
 ## 5. Conclusion
-
+Ce travail nous a permis de mieux comprendre comment utiliser des données concrètes pour analyser un enjeu réel, en l’occurrence celui du logement abordable à Ottawa.
 
 ## 6. Références
 
