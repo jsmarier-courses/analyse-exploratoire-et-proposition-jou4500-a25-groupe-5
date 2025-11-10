@@ -23,7 +23,7 @@ Avez-vous remarqué comment créer un hyperlien? En langage Markdown, on met le 
 Pour créer une liste non ordonnée, il suffit de mettre une étoile (`*`) devant chaque item.
 
 ## 1. Introduction
-
+Ce travail est une analyse pour le cours Journalisme numérique II : Sujets spéciaux (CMN 4500/JOU 4500) et va nous mener à faire un reportage.
 ## 2. Obtenir les données
 
 Utilisez deux croisillons (`##`) pour créer un intertitre de niveau 2 comme celui-ci.
