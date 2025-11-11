@@ -44,6 +44,9 @@ Dans la fenêtre **Importer un fichier**, cliquez sur **Importer les données**.
 
 Pour accéder notre Google Feuilles de calcul, veuillez cliquez sur ce lien public : https://docs.google.com/spreadsheets/d/1m5SLJN9SNHpli4yt-i3ZSI0ZNOzCDc_xl0AY0KQlSuY/edit?usp=sharing 
 
+### Observations générales 
+Plusieurs observations peuvent être faites face à ce jeu de données. Ce dernier est accablant, avec 2603 lignes qui touchent différents aspects et 26 colonnes dont 24 énumèrent chaque quartier dans la ville d’Ottawa. Par exemple, pour chaque quartier, nous pouvons observer l’âge, le revenu et la langue de la population. D'ailleurs, les données ne semblent pas propres pour quelques raisons. Premièrement, la colonne O avec Rideau-Rockcliffe n’a pas, « - Quartier 13 » comme le reste des quartiers. Deuxièmement, les valeurs pour certaines informations concernant les Premières Nations, plus précisément de la ligne 382 à la ligne 384, ne sont pas disponibles. Les variables manquantes portent sur le % de ménages habitant un logement fourni par le gouvernement local, la Première Nation ou la bande indienne consacrant 30 % ou plus de leur revenu aux frais de logement, ainsi que les frais de logement mensuels médians et moyens pour ces types de logements ($). 
+
 **Voici quelques exemples de fonctions et de lignes de code mises dans des boîtes grises :**
 
 1. Si vous nommez une fonction, mettez là à l'intérieur de guillemets « inclinés » comme ceci : `IMPORTHTML`.
