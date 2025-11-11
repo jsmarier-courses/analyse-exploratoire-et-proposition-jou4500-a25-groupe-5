@@ -1,15 +1,11 @@
 **11-11-2025**<br>
 **CMN4500/JOU4500 Journalisme numérique II**<br>
-**Benedict Biyangidika
-Angela Chamoun
+**Benedict Biyangidika,
+Angela Chamoun et
 Amina Deme**<br>
 **Présenté à Jean-Sébastien Marier**<br>
 
 # Analyse exploratoire de données (AED) et proposition
-
-## Avant-propos
-
-Pour ce travail, vous devez extraire des données d’un site Internet ou d’une base de données. Vous devez ensuite nettoyer et analyser votre jeu de données, trouver une histoire potentielle et créer une visualisation. Votre travail doit clairement expliquer votre processus. Vous devez écrire environ 1500 à 2000 mots et inclure des captures d’écran montrant les différentes étapes de votre analyse. Votre travail doit être rédigé avec le format Markdown et être publié sur GitHub.
 
 ## 1. Introduction
 Ce travail est une analyse pour le cours Journalisme numérique II : Sujets spéciaux (CMN 4500/JOU 4500) et va nous mener à faire un reportage. L’analyse porte sur l’étude d’un jeu de données de la Ville d’Ottawa concernant l’enjeu du logement abordable. Notre objectif est d’examiner dans quels quartiers les ménages dépensent une grande part de leur revenu pour se loger, afin d’identifier le quartier le plus abordable en 2020. Ces données proviennent du recensement de 2021 réalisé par Statistique Canada à partir d’un échantillon de 25 % des ménages.Le fichier contient 26 colonnes et 2603 lignes regroupant des informations démographiques et économiques par quartier, comme la valeur moyenne des logements et le pourcentage de propriétaires et de locataires consacrant 30 % ou plus de leur revenu au logement. Le jeu de données original est disponible sur le portail de données ouvertes de la ville d'Ottawa et la version CSV se trouve sur GitHub. D’abord, nous présenterons l’obtention des données, puis le nettoyage, avant de passer à l’analyse et enfin à la conclusion.
@@ -41,12 +37,13 @@ La ligne 373 dans le Google Feuilles de calcul représente la valeur médiane de
 
 VIMA est l’acronyme de Valide, Invalide, Manquant et Aberrant. Il s’agit d’une analyse utilisée pour vérifier l’exactitude des données que l’on possède : V pour valide (aucune valeurs manquantes, mais qui se retrouve dans une fourchette valide et sont représentatifs du phénomène à l’étude), I pour invalide (les valeurs impossibles ou qui n’ont aucun sens), M pour manquant (cellule vide), et A pour aberrant (valeurs extrêmement hautes ou basses par rapport à celles attendues). 
 
-Alors, les données sont dites exactes lorsqu'elles décrivent adéquatement les phénomènes qu’elles sont conçues pour mesurer ou représenter. D’où, pour qu’une donnée soit exacte, elle doit être valide et correcte selon [Statistique Canada, 2020](https://www.statcan.gc.ca/fr/afc/litteratie-donnees/catalogue/892000062020008). Dans notre cas, les données que nous avons utilisées portent sur les données ouvertes de la ville d’Ottawa qui portent sur le recensement et l’enquête par sondage de 2021. Pour nous assurer que nos données sont exact nous avons analysé les trois colonnes ci-dessous dans notre jeu de données :
+Alors, les données sont dites exactes lorsqu'elles décrivent adéquatement les phénomènes qu’elles sont conçues pour mesurer ou représenter. D’où, pour qu’une donnée soit exacte, elle doit être valide et correcte selon [Statistique Canada, 2020](https://www.statcan.gc.ca/fr/afc/litteratie-donnees/catalogue/892000062020008). Dans notre cas, les données que nous avons utilisées portent sur les données ouvertes de la ville d’Ottawa qui portent sur le recensement et l’enquête par sondage de 2021. Pour nous assurer que nos données sont exact nous avons analysé les trois colonnes ci-dessous dans notre jeu de données : 
+
 ![colonne A](colonne-A.png)<br>
-*Figure 3 : Colonne A*
+*Figure 3 : colonne A*
 
 ![colonne B](colonne-B.png)<br>
-*Figure 4 : Colonne B*
+*Figure 4 : colonne B*
 
 ![colonne C](colonne-C.png)<br>
 *Figure 5 : colonne C*
