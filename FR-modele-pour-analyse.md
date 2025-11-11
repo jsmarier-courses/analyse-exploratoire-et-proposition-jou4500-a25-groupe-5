@@ -1,6 +1,8 @@
-**Date**<br>
-**Cote et nom du cours**<br>
-**Prénom et nom de l'étudiant(e)**<br>
+**11-11-2025**<br>
+**CMN4500/JOU4500 Journalisme numérique II**<br>
+**Benedict Biyangidika
+Angela Chamoun
+Amina Deme**<br>
 **Présenté à Jean-Sébastien Marier**<br>
 
 # Analyse exploratoire de données (AED) et proposition
