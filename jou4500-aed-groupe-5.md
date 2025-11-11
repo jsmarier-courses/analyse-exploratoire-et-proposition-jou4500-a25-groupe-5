@@ -7,8 +7,6 @@ Amina Deme**<br>
 
 # Analyse exploratoire de données (AED) et proposition
 
-Utilisez un croisillon (`#`) pour créer un intertitre de niveau 1 comme celui-ci.
-
 ## Avant-propos
 
 Pour ce travail, vous devez extraire des données d’un site Internet ou d’une base de données. Vous devez ensuite nettoyer et analyser votre jeu de données, trouver une histoire potentielle et créer une visualisation. Votre travail doit clairement expliquer votre processus. Vous devez écrire environ 1500 à 2000 mots et inclure des captures d’écran montrant les différentes étapes de votre analyse. Votre travail doit être rédigé avec le format Markdown et être publié sur GitHub.
@@ -49,17 +47,6 @@ Plusieurs observations peuvent être faites face à ce jeu de données. Ce derni
 
 ### Observations spécifiques 
 La ligne 373 dans le Google Feuilles de calcul représente la valeur médiane de logements. Kanata-Nord (Quartier 4) et West Carleton-March (Quartier 5) ont la même valeur de 695 000 $ et Stittsville (Quartier 6) est un peu plus haut avec une valeur médiane de 700 000$. D’ailleurs, la ligne 374 énumère la valeur moyenne, qui est également similaire entre les trois quartiers. Pour ces derniers, la valeur moyenne est autour de 700 000 $. Précisément, Kanata-Nord (716 000 $), West Carleton-March (742 000 $) et Stittsville (731 000 $). Concernant le montant de propriétaire représenté sur la ligne 300, il y a en beaucoup plus dans les trois quartiers que de locataires. Le montant le plus élevé est à Stittsville où il y a 13 425 comparativement à 2480 locataires. Dans le quartier Kanata-Nord, il y a 11 085 propriétaires et 3935 locataires. Enfin, le quartier West Carleton-March a 8535 propriétaires et 570 locataires. 
-
-**Voici quelques exemples de fonctions et de lignes de code mises dans des boîtes grises :**
-
-1. Si vous nommez une fonction, mettez là à l'intérieur de guillemets « inclinés » comme ceci : `IMPORTHTML`.
-1. Si vous voulez inclure une ligne de code complète, faites la même chose, mais avec tout le code : `=IMPORTHTML("https://en.wikipedia.org/wiki/China"; "table", 5)`.
-1. Alternativement, vous pouvez mettre le code dans une boîte indépendante en utilisant le modèle de code ci-dessous :
-
-``` r
-=IMPORTHTML("https://en.wikipedia.org/wiki/China"; "table", 5)
-```
-C'est aussi comme ça qu'on crée une liste ordonnée. Il suffit de mettre `1.` devant chaque item.
 
 ## 3. Comprendre les données
 
@@ -135,8 +122,16 @@ Ce travail nous a permis de mieux comprendre comment utiliser des données concr
 
 ## 6. Références
 
-Veuillez inclure une liste de vos références ici. Assurez-vous de suivre les [normes APA pour les références](https://apastyle.apa.org/style-grammar-guidelines/references). Les retraits négatifs (*hanging paragraphs*) ne sont pas nécessaires. Le [guide sur l'adaptation APA](https://arts.uottawa.ca/lettres/sites/arts.uottawa.ca.lettres/files/cartu-outils-de-redaction-adaptation-apa.pdf) de l'Université d'Ottawa pourrait également vous être utile.
+Société canadienne d’hypothèques et de logement (SCHL). (2025). Housing Affordability Monitor: Affordability improves for a sixth consecutive quarter in Q2 2025.
+ https://www.cmhc-schl.gc.ca/professionnels/marche-du-logement-donnees-et-recherche/recherche-sur-le
 
-**Voici un exemple :**
 
-Bounegru, L., & Gray, J. (Eds.). (2021). *The Data Journalism Handbook 2: Towards A Critical Data Practice*. Amsterdam University Press. [https://ocul-crl.primo.exlibrisgroup.com/permalink/01OCUL_CRL/hgdufh/alma991022890087305153](https://ocul-crl.primo.exlibrisgroup.com/permalink/01OCUL_CRL/hgdufh/alma991022890087305153)
+Ville d’Ottawa. (2025). Cartes des quartiers et zones des conseils scolaires.
+Cartes des quartiers et zones des conseils scolaires | Ville d'Ottawa 
+
+
+Statistique Canada. (2024). Exactitude et validation des données : méthodes pour assurer la qualité des données.
+ https://www.statcan.gc.ca/fr 
+
+
+OpenAI. (2025). ChatGPT [modèle d’intelligence artificielle].
