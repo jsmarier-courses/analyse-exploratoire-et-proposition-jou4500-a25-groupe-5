@@ -90,7 +90,7 @@ Ces variables ont été sélectionnées pour examiner la question du logement ab
 *Figure 7 : Tableau croisé dynamique*
 
 ![Graphique exploratoire](Pour-les-propriétaires.png)<br>
-*Figure 8 : Graphique exploratoire % de ménages propriétaires consacrant 30 % ou plus de leur revenu aux frais de logement*
+*Figure 8 : Graphique exploratoire montrant le pourcentage de ménages propriétaires consacrant 30 % ou plus de leur revenu aux frais de logement*
 
 ## 4. Récit potentiel
 
