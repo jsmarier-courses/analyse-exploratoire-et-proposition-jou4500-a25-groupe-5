@@ -21,7 +21,7 @@ Dans la fenêtre **Importer un fichier**, cliquez sur **Importer les données**.
 
 
 ![](questionnaire-détaillé-2021.png)<br>
-*Figure 1 : La fenêtre d'importation d'un fichier de Google Feuilles de calcul.*
+*Figure 1 : La fenêtre d'importation d'un fichier de Google Feuilles de calcul*
 
 Pour accéder notre Google Feuilles de calcul, veuillez cliquez sur ce lien public : https://docs.google.com/spreadsheets/d/1m5SLJN9SNHpli4yt-i3ZSI0ZNOzCDc_xl0AY0KQlSuY/edit?usp=sharing 
 
