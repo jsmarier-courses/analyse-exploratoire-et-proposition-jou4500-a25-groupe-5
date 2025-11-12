@@ -1,4 +1,4 @@
-**11-11-2025**<br>
+  **11-11-2025**<br>
 **CMN4500/JOU4500 Journalisme numérique II**<br>
 **Benedict Biyangidika,
 Angela Chamoun et
@@ -72,7 +72,7 @@ Enfin, nous avons figé la première colonne ayant nos indicateurs pour facilite
 Pour effectuer cela, nous avons sélectionné **Afficher** > **Figer** >**1 colonne**.
 
 ![jeux de données après nettoyage](jeux-de-données-après-nettoyage.png)<br>
-*Figure 6 : jeux de données après nettoyage*
+*Figure 6 : Jeux de données après nettoyage*
 
 ### 3.3. Analyse exploratoire des données (AED)
 
@@ -81,7 +81,7 @@ Ces variables ont été sélectionnées pour examiner la question du logement ab
 **Cette section doit inclure une capture d'écran de votre tableau croisé dynamique, comme ceci :**
 
 ![Tableau croisé dynamique](Tableau-croisé-dynamique.png)<br>
-*Figure 7 : Ce tableau croisé dynamique montre...*
+*Figure 7 : Tableau croisé dynamique m*
 
 **Cette section doit aussi inclure une capture d'écran de votre graphique exploratoire, comme ceci :**
 
@@ -103,7 +103,7 @@ Société canadienne d’hypothèques et de logement (SCHL). (2025). Housing Aff
 
 
 Ville d’Ottawa. (2025). Cartes des quartiers et zones des conseils scolaires.
-Cartes des quartiers et zones des conseils scolaires | Ville d'Ottawa 
+https://ottawa.ca/fr/hotel-de-ville/elections/cartes-des-quartiers-et-zones-des-conseils-scolaires
 
 
 Statistique Canada. (2024). Exactitude et validation des données : méthodes pour assurer la qualité des données.
