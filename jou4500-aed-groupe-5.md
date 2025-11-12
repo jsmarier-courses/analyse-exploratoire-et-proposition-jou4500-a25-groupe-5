@@ -20,7 +20,7 @@ Cliquez **Téléverser** et sélectionnez le fichier CSV que vous avez télécha
 Dans la fenêtre **Importer un fichier**, cliquez sur **Importer les données**. 
 
 
-![](questionnaire-détaillé-2021.png)<br>
+![](questionnaire-détaillé-2021.png)<br>
 *Figure 1 : La fenêtre d'importation d'un fichier de Google Feuilles de calcul.*
 
 Pour accéder notre Google Feuilles de calcul, veuillez cliquez sur ce lien public : https://docs.google.com/spreadsheets/d/1m5SLJN9SNHpli4yt-i3ZSI0ZNOzCDc_xl0AY0KQlSuY/edit?usp=sharing 
@@ -84,12 +84,12 @@ Pour effectuer cela, nous avons sélectionné **Afficher > Figer > 1 colonne**.
 
 Ces variables ont été sélectionnées pour examiner la question du logement abordable à Ottawa sous un angle purement financier. En combinant la valeur moyenne des logements et le pourcentage de ménages propriétaires consacrant 30 % ou plus de leur revenu au logement, on obtient une image claire de la charge financière réelle supportée par les ménages. Une statistique attire particulièrement l’attention : certains quartiers affichent une valeur moyenne avoisinant les 900 000 $, un chiffre qui traduit la montée rapide du coût de l’immobilier et les difficultés croissantes pour accéder à une propriété. L’analyse révèle ainsi une ville marquée par un fort déséquilibre entre les revenus et les prix, où l’accès à un logement adéquat devient de plus en plus restreint pour les ménages à revenu moyen. Toutefois, quelques quartiers, notamment Orléans-Ouest–Innes avec seulement 7,9 % de ménages dépassant le seuil des 30 %, se démarquent par une meilleure stabilité financière.Ces données montrent l'importance d'identifier ces zones ces Zones plus accessibles afin de mieux comprendre les dynamiques économiques locales. Pour la suite,la valeur moyenne des logements mérite une analyse plus approfondie, surtout dans les quartiers où elle avoisine les 900 000. Il serait aussi pertinent de croiser cette variable avec le taux de ménages dépassant 30 % de leur revenu en frais de logement afin de mieux comprendre les inégalités économiques entre quartiers.
 
-**Cette section doit inclure une capture d'écran de votre tableau croisé dynamique, comme ceci :**
+
 
 ![Tableau croisé dynamique](Tableau-croisé-dynamique.png)<br>
 *Figure 7 : Tableau croisé dynamique*
 
-![Graphique exploratoire](Pour-les-locataires.png)<br>
+![Graphique exploratoire](Pour-les-propriétaires.png)<br>
 *Figure 8 : Graphique exploratoire % de ménages propriétaires consacrant 30 % ou plus de leur revenu aux frais de logement*
 
 ## 4. Récit potentiel
